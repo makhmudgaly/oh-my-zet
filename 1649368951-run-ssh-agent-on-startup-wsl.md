@@ -1,4 +1,5 @@
 # 1649368951 run-ssh-agent-on-startup-wsl
+#ssh #wsl #linux #ubuntu
 
 Sometimes we need to run ssh-agent on startup for wsl.
 AFAIK, there is bug when we restart wsl2 ssh-agent does not spin up
