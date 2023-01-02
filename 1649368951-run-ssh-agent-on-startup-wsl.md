@@ -19,3 +19,4 @@ fi
 
 
 ## Links
+- [1672691555-copy-and-rename-ms-wsl-linux-distros.md](1672691555-copy-and-rename-ms-wsl-linux-distros.md)
